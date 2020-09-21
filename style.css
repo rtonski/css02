@@ -1,5 +1,13 @@
-h1  {color: #00f;
-text-align: center;}
-p {text-align: center;
-font-size: 1.4em;}
-span   {color: #f00;}
+h1 {
+    color: #00f;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 1.4em;
+}
+
+span {
+    color: #f00;
+}
